@@ -1,7 +1,7 @@
 # :sunny:-Implemented, :new_moon:-Ignored, :waxing_crescent_moon:-Pending
 
 
-## Problem-6:sunny:
+## Problem-1:sunny:
 
 
 > This problem was recently asked by Google.
