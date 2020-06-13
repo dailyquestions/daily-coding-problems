@@ -5450,12 +5450,6 @@ return False if this is impossible.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-331:waxing_crescent_moon:
 
 
@@ -5472,12 +5466,6 @@ second and sixth characters, so you should return 2.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-332:waxing_crescent_moon:
 
 
@@ -5488,12 +5476,6 @@ pairs (a, b) satisfy the following conditions:
 
  * a + b = M
  * a XOR b = N
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
 
 
 --------------------------------------------------------------------------------
@@ -5514,12 +5496,6 @@ celebrity in O(N) time.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-334:waxing_crescent_moon:
 
 
@@ -5534,12 +5510,6 @@ For example, given the input [5, 2, 7, 8], you should return True, since (5 * 2
 - 7) * 8 = 24.
 
 Write a function that plays the 24 game.
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
 
 
 --------------------------------------------------------------------------------
@@ -5571,12 +5541,6 @@ calculates each site's page rank.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-336:waxing_crescent_moon:
 
 
@@ -5596,12 +5560,6 @@ below.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-337:waxing_crescent_moon:
 
 
@@ -5613,12 +5571,6 @@ space over time?
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-338:waxing_crescent_moon:
 
 
@@ -5626,12 +5578,6 @@ and skip straight to final interviews with top tech companies!
 
 Given an integer n, find the next biggest integer with the same number of 1-bits
 on. For example, given the number 6 (0110 in binary), return 9 (1001).
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
 
 
 --------------------------------------------------------------------------------
@@ -5648,12 +5594,6 @@ in the array which add up to the specified number k. For example, given [20,
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-340:waxing_crescent_moon:
 
 
@@ -5662,12 +5602,6 @@ and skip straight to final interviews with top tech companies!
 Given a set of points (x, y) on a 2D cartesian plane, find the two closest
 points. For example, given the points [(1, 1), (-1, -1), (3, 4), (6, 1), (-1,
 -6), (-4, -3)], return [(-1, -1), (1, 1)].
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
 
 
 --------------------------------------------------------------------------------
@@ -5710,12 +5644,6 @@ and 'rain', but that would be incorrect since that's only 2 words.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-342:waxing_crescent_moon:
 
 
@@ -5742,12 +5670,6 @@ Implement your own version of reduce.
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Take Triplebyte's quiz [https://triplebyte.com/a/K5Y7dNu/d] 
-and skip straight to final interviews with top tech companies!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-343:waxing_crescent_moon:
 
 
@@ -5766,12 +5688,6 @@ For example, given the following tree:
 
 
 and the range [4, 9], return 23 (5 + 4 + 6 + 8).
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -5805,12 +5721,6 @@ still satisfying this requirement.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-345:waxing_crescent_moon:
 
 
@@ -5829,12 +5739,6 @@ Note that the synonyms (a, b) and (a, c) do not necessarily imply (b, c):
 consider the case of (coach, bus) and (coach, teacher).
 
 Follow-up: what if we can assume that (a, b) and (a, c) do in fact imply (b, c)?
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -5872,12 +5776,6 @@ ATL -> ORD -> LAX, costing $440.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-347:waxing_crescent_moon:
 
 
@@ -5891,12 +5789,6 @@ created after an unlimited number of moves.
 
 For example, suppose we are given the string daily and k = 1. The best we can
 create in this case is ailyd.
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -5932,12 +5824,6 @@ lexicographically precedes cod, cob is represented as a left child extending
 from cod.
 
 Implement insertion and search functions for a ternary search tree.
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -5980,12 +5866,6 @@ Implement Soundex.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-350:waxing_crescent_moon:
 
 
@@ -5999,12 +5879,6 @@ Here are a few examples:
  * Given N = 4, return 1 (4)
  * Given N = 17, return 2 (16 + 1)
  * Given N = 18, return 2 (9 + 9)
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -6035,12 +5909,6 @@ word.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-352:waxing_crescent_moon:
 
 
@@ -6057,12 +5925,6 @@ white squares, which obeys the following rules:
 
 Write a program to determine whether a given matrix qualifies as a crossword
 grid.
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -6090,12 +5952,6 @@ representing the 2 x 3 area at the bottom right.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-354:waxing_crescent_moon:
 
 
@@ -6114,12 +5970,6 @@ Some questions you may want to consider as part of your solution are:
  * How can you keep track of pages that have already been visited?
  * How will you deal with your client machines being blacklisted?
  * How can you update your database when Wikipedia pages are added or updated?
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -6146,12 +5996,6 @@ better than [1, 2, 5], which has an absolute difference of |1.3 - 1| + |2.3 - 2|
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-356:waxing_crescent_moon:
 
 
@@ -6160,12 +6004,6 @@ Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 Implement a queue using a set of fixed-length arrays.
 
 The queue should support enqueue, dequeue, and get_size operations.
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -6193,12 +6031,6 @@ Given this representation, determine the depth of the tree.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-358:waxing_crescent_moon:
 
 
@@ -6212,12 +6044,6 @@ Create a data structure that performs all the following operations in O(1) time:
    remove it.
  * get_max: Return a key with the highest value.
  * get_min: Return a key with the lowest value.
-
-
---------------------------------------------------------------------------------
-
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
 
 
 --------------------------------------------------------------------------------
@@ -6239,12 +6065,6 @@ above, this would be 357.
 
 --------------------------------------------------------------------------------
 
-Are you underpaid? See salary bands and career ladders at top tech companies on 
-Levels.fyi [https://www.levels.fyi/?ref=dailycodingproblem.com]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-360:waxing_crescent_moon:
 
 
@@ -6260,13 +6080,6 @@ satisfies everyone's priorities.
 
 For example, suppose your input is {[1, 7, 3], [2, 1, 6, 7, 9], [3, 9, 5]}. In
 this case a satisfactory playlist could be [2, 1, 6, 7, 3, 9, 5]. 
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Apply to top tech companies and startups in seconds through 
-Talentvine, our exclusive candidate network
-[https://www.talentvine.io/?ref=dailycodingproblem]!
 
 
 --------------------------------------------------------------------------------
@@ -6303,13 +6116,6 @@ this case you should return False:
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Apply to top tech companies and startups in seconds through 
-Talentvine, our exclusive candidate network
-[https://www.talentvine.io/?ref=dailycodingproblem]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-362:waxing_crescent_moon:
 
 
@@ -6319,13 +6125,6 @@ A strobogrammatic number is a positive number that appears the same after being
 rotated 180 degrees. For example, 16891 is strobogrammatic.
 
 Create a program that finds all strobogrammatic numbers with N digits.
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Apply to top tech companies and startups in seconds through 
-Talentvine, our exclusive candidate network
-[https://www.talentvine.io/?ref=dailycodingproblem]!
 
 
 --------------------------------------------------------------------------------
@@ -6348,13 +6147,6 @@ add_subtract(-5)(10)(3)(9) -> -5 + 10 - 3 + 9 -> 11
 
 --------------------------------------------------------------------------------
 
-Ready to interview? Apply to top tech companies and startups in seconds through 
-Talentvine, our exclusive candidate network
-[https://www.talentvine.io/?ref=dailycodingproblem]!
-
-
---------------------------------------------------------------------------------
-
 ## Problem-364:waxing_crescent_moon:
 
 
@@ -6362,13 +6154,6 @@ Talentvine, our exclusive candidate network
 
 Describe an algorithm to compute the longest increasing subsequence of an array
 of numbers in O(n log n) time.
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Apply to top tech companies and startups in seconds through 
-Talentvine, our exclusive candidate network
-[https://www.talentvine.io/?ref=dailycodingproblem]!
 
 
 --------------------------------------------------------------------------------
@@ -6388,13 +6173,6 @@ operations are possible:
 
 Implement a quack using three stacks and O(1) additional memory, so that the
 amortized time for any push, pop, or pull operation is O(1).
-
-
---------------------------------------------------------------------------------
-
-Ready to interview? Apply to top tech companies and startups in seconds through 
-Talentvine, our exclusive candidate network
-[https://www.talentvine.io/?ref=dailycodingproblem]!
 
 
 --------------------------------------------------------------------------------
